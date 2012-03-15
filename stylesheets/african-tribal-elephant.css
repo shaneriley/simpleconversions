@@ -1,0 +1,28 @@
+/*
+	http://kuler.adobe.com/#themeID/334560
+	Tan: #d0a972
+	Lt. Brown: #a66038
+	Dk. Red: #732720
+	Maroon: #592323
+	Lt. Gray: #f2f2f2
+*/
+
+body { background: #f2f2f2; }
+
+a { color: #732720; }
+
+#sitewrapper {
+	color: #333333;
+	background: #d0a972; }
+
+h1 {
+	color: #592323;
+	background: #f2f2f2;
+	border-color: #592323; }
+
+form { background: #a66038; }
+
+fieldset { background: #d0a972; }
+	fieldset p {
+		background: #f2f2f2;
+		border-color: #732720; }

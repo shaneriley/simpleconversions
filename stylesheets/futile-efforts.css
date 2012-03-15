@@ -1,0 +1,30 @@
+/*
+	http://kuler.adobe.com/#themeID/334560
+	Dk. Brown: #362c2a
+	Red: #732420
+	Peach: #bf734c
+	Cream: #fad9a0
+	Gray: #736859
+*/
+
+body { background: #362c2a; }
+
+a { color: #732420; }
+
+#sitewrapper {
+	color: #362c2a;
+	background: #bf734c; }
+
+h1 {
+	color: #fad9a0;
+	background: #732420;
+	border-color: #fad9a0; }
+
+form { background: #736859; }
+
+fieldset { background: #fad9a0; }
+	fieldset p {
+		background: #ffffff;
+		border-color: #732420; }
+
+#footer { color: #fad9a0; }

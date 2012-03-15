@@ -1,0 +1,85 @@
+@import url("./whitespace-reset.css");
+
+body { font: normal 12px Arial, Helvetica, sans-serif; }
+
+#sitewrapper {
+	position: relative;
+	width: 800px;
+	margin: 10px auto 0 auto; }
+h1 {
+	margin: 0 0 15px 0;
+	padding: 5px 10px;
+	font-size: 26px;
+	text-align: center;
+	border: 4px solid #ffffff; }
+h2 {
+	padding: 0 20px 15px 20px;
+	font-size: 16px;
+	text-align: center; }
+p {
+	padding: 0 20px 20px 20px;
+	font-size: 14px; }
+ul {
+	float: left;
+	width: 100%; }
+	ul li {
+		float: left;
+		margin: 0 2px 0 0;
+		font-size: 16px; }
+	ul a {
+		display: block;
+		float: left;
+		padding: 4px 10px;
+		text-decoration: none;
+		border-bottom: none; }
+form {
+	clear: both;
+	padding: 10px;
+	font-size: 14px; }
+form.first { padding-bottom: 0; }
+form.inactive { display: none; }
+fieldset {
+	padding: 7px 10px;
+	border: none;
+	background: #fad9a0; }
+label {
+	float: left;
+	padding: 3px 7px 0 0;
+	font-size: 20px; }
+select {
+	float: left;
+	margin: 4px 7px 0 0; }
+input { margin: 4px 0 0 0; }
+input.input-text {
+	float: left;
+	padding-top: 1px;
+	margin-right: 7px; }
+	fieldset p {
+		clear: both;
+		margin: 10px 0 0 0;
+		padding: 8px 12px;
+		font-size: 25px;
+		border: 2px solid #ffffff; }
+		fieldset p small {
+			float: right;
+			padding: 1px 0 0 0;
+			font-size: 18px; }
+		fieldset p a {
+			display: block;
+			float: right;
+			width: 22px;
+			height: 28px;
+			margin: 1px 0 0 5px;
+			background: transparent url("../images/icon_calculator.png") 0 0 no-repeat; }
+		fieldset p input {
+			margin: 0;
+			width: 20px;
+			font-size: 18px;
+			text-align: center; }
+
+#footer {
+	clear: both;
+	width: 800px;
+	padding: 10px 0 20px 0;
+	margin: 0 auto;
+	font-size: 11px; }
